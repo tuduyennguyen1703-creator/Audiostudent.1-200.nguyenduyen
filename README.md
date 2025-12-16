@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Học Hành Chăm Chỉ Nhé
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
